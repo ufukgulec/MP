@@ -1,5 +1,5 @@
 {"mekanlar":[
-  { "baslik":"GariplerCamii", "tarih":"1501" },
-  { "baslik":"GökMedrese", "tarih":"1605" },
-  { "baslik":"YagbasanMedrese", "tarih":"1600" }
+  { "baslik":"GariplerCamii", "tarih":"1501","aciklama":"gariplerCamisi" },
+  { "baslik":"GökMedrese", "tarih":"1605","aciklama":"gökMedresesi" },
+  { "baslik":"YagbasanMedrese", "tarih":"1600","aciklama":"yagbasanMederesesi" }
 ]}
