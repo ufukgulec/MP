@@ -1,9 +1,44 @@
 {"mekanlar":[
-  { "baslik":"Mahperi Hatun Kervansarayı", "tarih":"1238","aciklama":"Kervansaray Selçuklu Sultanı I. Alaeddin Keykubad'ın birinci eşi Mahperi Hatun tarafından M.1238-39 yılında yaptırılmıştır." },
-  { "baslik":"Taşhan", "tarih":"1626","aciklama":"1626-1632 yılları arasında inşa edilmiş bir Osmanlı eseridir." },
-  { "baslik":"Ali Paşa Cami", "tarih":"1572","aciklama":"Temerrüd Ali Paşa, Erzurum Beylerbeyi olduğu sırada Sivas Defterdarı oğlu Mustafa Bey’in vefat etmesi üzerine Tokat’ta bir türbe ve yanına bir cami yapılmasını istemiştir." },
-  {"baslik":"Zile Kalesi","tarih":"M.S. 1.yy","aciklama":"Zile Ovası’na hakim bir konumda bulunan kale M.S. 1. yüzyılda yapılmış."},
-  {"baslik":"Sulusaray Antik Kenti","tarih":"-","aciklama":"Tokat’ın Sulusaray ilçesinde bulunan bu antik kent, Roma döneminden kalmadır."},
-  {"baslik":"Horoztepe","tarih":"M.Ö. 3000","aciklama":"Erbaa’da yer alan Horoztepe’de M.Ö. 3000 yılına ait mezarlar bulunmuştur."},
-  { "baslik":"Sentimur Türbesi", "tarih":"1314","aciklama":"Moğol emirlerinden Sentimuroğlu Nurettin’e ait bir türbedir. 1314’te yapılan türbe kesme taştan kare mekan üstüne konumlandırılmış." }
+  { "baslik":"Mahperi Hatun Kervansarayı",
+   "tarih":"1238",
+   "aciklama":"Kervansaray Selçuklu Sultanı I. Alaeddin Keykubad'ın birinci eşi Mahperi Hatun tarafından M.1238-39 yılında yaptırılmıştır.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/mahperi.jpg?raw=true",
+   "paragraf":"Selçuklu Sultanı Alâeddin Keykubat’ın annesi Mahperi Hatun adına yaptırdığı bu kervansaray, Tokat’ın Pazar ilçesinde yer alır. Özellikle yaz mevsiminde, turistlerin sıklıkla ziyaret ettiği gözde gezi noktalarından biri haline gelmiştir."
+  },
+  { "baslik":"Taşhan",
+   "tarih":"1626",
+   "aciklama":"1626-1632 yılları arasında inşa edilmiş bir Osmanlı eseridir.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/tashan.jpg?raw=true",
+   "paragraf":"1631’de yaptırılan Taşhan, büyük bir Osmanlı eseridir. Dikdörtgen ve iki katlı olan hanın ortasında avlu bulunuyor. 112 odalı yapının nostaljik özelliği bozulmadan otele çevrilmesi yönünde projeler var. Günümüzde ise kafe ve alışveriş dükkanlarıyla çevrili durumda."
+  },
+  { "baslik":"Ali Paşa Cami",
+   "tarih":"1572",
+   "aciklama":"Temerrüd Ali Paşa, Erzurum Beylerbeyi olduğu sırada Sivas Defterdarı oğlu Mustafa Bey’in vefat etmesi üzerine Tokat’ta bir türbe ve yanına bir cami yapılmasını istemiştir.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/alipasa.jpg?raw=true",
+   "paragraf":"Ali Paşa Hamamı, Tokat’ın merkezinde olduğu için ulaşım açısından zorluğu yok. Aynı isimle Ali Paşa Camisi de hemen yanındadır. 1572 tarihli hamam kesme taş kullanılarak inşa edilmiş. Osmanlı hamam mimarisinin güzel bir örneğidir. Kadın ve erkek bölümü ayrı olup, birbirine bitişiktir. İki bölüm arasındaki tek fark erkek bölümünün sıcaklık kısmı haç planlıdır ve göbek taşının üzeri kubbe ile örtülmüştür."
+  },
+  {"baslik":"Zile Kalesi",
+   "tarih":"M.S. 1.yy",
+   "aciklama":"Zile Ovası’na hakim bir konumda bulunan kale M.S. 1. yüzyılda yapılmış.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/zilekalesi.jpg?raw=true",
+   "paragraf":"Zile Ovası’na hakim bir konumda bulunan kale M.S. 1. yüzyılda yapılmış. Kitabeler sayesinde hakkında birçok şey nesilden nesile aktarılmış. 1336’da Ertena Bey Alâeddin Bey döneminde onarıldığını bu kitabe aracılığıyla öğreniyoruz. Bununla beraber, Sezar meşhur sözü olan “Veni vidi vici”yi, Zile Kalesi’nde söylemiştir."
+  },
+  {"baslik":"Sulusaray Antik Kenti",
+   "tarih":"-",
+   "aciklama":"Tokat’ın Sulusaray ilçesinde bulunan bu antik kent, Roma döneminden kalmadır.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/sulusaray.jpg?raw=true",
+   "paragraf":"Tokat’ın Sulusaray ilçesinde bulunan bu antik kent, Roma döneminden kalmadır. Açıkhava müzesi olarak görülebilecek olan Sulusaray Antik Kenti, her yıl birçok yerli ve yabancı tarihsever tarafından ziyaret edilir."
+  },
+  {"baslik":"Horoztepe",
+   "tarih":"M.Ö. 3000",
+   "aciklama":"Erbaa’da yer alan Horoztepe’de M.Ö. 3000 yılına ait mezarlar bulunmuştur.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/horoztepe.jpg?raw=true",
+   "paragraf":"Erbaa’da yer alan Horoztepe’de M.Ö. 3000 yılına ait mezarlar bulunmuştur. Eski insanların adetleri olan “ölüye gömülen eşyalar”a burada da rastlanmış. Madeni ve altın süs eşyaları Ankara Anadolu Medeniyetleri Müzesi’nde görebilirsiniz. Çıkarılan eserler arasından en önemlisi bronzdan yapılmış çocuğunu emziren kadın heykelidir. Horoztepe’de zaman zaman kaçak kazılar da yapılmıştır. Bu kazılar sırasında bulunan eserleri dünyanın çeşitli müzelerinde görme şansınız var."
+  },
+  { "baslik":"Sentimur Türbesi",
+   "tarih":"1314",
+   "aciklama":"Moğol emirlerinden Sentimuroğlu Nurettin’e ait bir türbedir. 1314’te yapılan türbe kesme taştan kare mekan üstüne konumlandırılmış.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/sentimur.jpg?raw=true",
+   "paragraf":"Moğol emirlerinden Sentimuroğlu Nurettin’e ait bir türbedir. 1314’te yapılan türbe kesme taştan kare mekan üstüne konumlandırılmış. Sekizgen yıldızlı külahıyla hemen fark edeceksiniz."
+  }
 ]}
