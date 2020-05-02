@@ -24,10 +24,40 @@
    "paragraf":"Zile Ovası’na hakim bir konumda bulunan kale M.S. 1. yüzyılda yapılmış. Kitabeler sayesinde hakkında birçok şey nesilden nesile aktarılmış. 1336’da Ertena Bey Alâeddin Bey döneminde onarıldığını bu kitabe aracılığıyla öğreniyoruz. Bununla beraber, Sezar meşhur sözü olan “Veni vidi vici”yi, Zile Kalesi’nde söylemiştir."
   },
   {"baslik":"Sulusaray Antik Kenti",
-   "tarih":"-",
+   "tarih":"M.Ö.",
    "aciklama":"Tokat’ın Sulusaray ilçesinde bulunan bu antik kent, Roma döneminden kalmadır.",
    "resim":"https://github.com/ufukgulec/MP/blob/master/images/sulusaray.jpg?raw=true",
    "paragraf":"Tokat’ın Sulusaray ilçesinde bulunan bu antik kent, Roma döneminden kalmadır. Açıkhava müzesi olarak görülebilecek olan Sulusaray Antik Kenti, her yıl birçok yerli ve yabancı tarihsever tarafından ziyaret edilir."
+  },
+  {"baslik":"Deveciler Hanı",
+   "tarih":"-",
+   "aciklama":"Takyeciler Camii’nin güneyinde olan Deveci Hanı terk edilmiş, harap bir haldeydi.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/devecihani.jpg?raw=true",
+   "paragraf":"Takyeciler Camii’nin güneyinde olan Deveci Hanı terk edilmiş, harap bir haldeydi. Şu an devlet konservatuvarı olarak kullanılıyor. Moloz taş, kesme taş ve tuğla ile inşa edilen han iki katlıdır ve revaklı avluya sahiptir."
+  },
+  {"baslik":"Bedesten ve Arasta",
+   "tarih":"-",
+   "aciklama":"“Sultan çarşısı kadar güzel bir çarşıdır. Halep ve Bursa çarşıları gibi gayet tertipli kurulmuştur.”",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/bedesten.jpg?raw=true",
+   "paragraf":"Evliya Çelebi’nin bu yer için söylediği bir söz vardır:“Sultan çarşısı kadar güzel bir çarşıdır. Halep ve Bursa çarşıları gibi gayet tertipli kurulmuştur.”Tokat Valiliği bu bölgeyi hareketlendirmek için restorasyon projesini hayata geçirecek. Yazma, bakır ve el sanatları gibi ürünler eski günlerde olduğu gibi burada tezgahlarda yerini alacak."
+  },
+  {"baslik":"Yazmacılar Hanı",
+   "tarih":"-",
+   "aciklama":"Geçmişte Gazioğlu Hanı olarak isimlendirilmiş han.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/Yazmacilar.jpg?raw=true",
+   "paragraf":"Geçmişte Gazioğlu Hanı olarak isimlendirilmiş ancak son yıllarda yaptığı özel üretim ile ismini de üretimiyle eş değer olarak değiştirmiş Yazmacılar Hanı, Sulusokak’a çıkarken yol üzerinde göreceğiniz tarihi yapılardan bir diğeri. Uzun yıllar sonra kapanan han, son günlerde yeniden restore edilmiş ve kullanıma açılmıştır."
+  },
+  {"baslik":"Tokat Mevlevihanesi",
+   "tarih":"M.S. 17.yy",
+   "aciklama":"Soğukpınar Mahallesi’ndeki mevlevihane 17. yüzyılda Sülun Muslu Paşa tarafından yaptırılmış.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/Mevlevihane.jpg?raw=true",
+   "paragraf":"Soğukpınar Mahallesi’ndeki mevlevihane 17. yüzyılda Sülun Muslu Paşa tarafından yaptırılmış. Mimari açıdan son derece gösterişlidir. 3 bin metrekarelik alana yayılan Mevlevihane, Evliya Çelebi’nin Seyahatname’sinde de geçer. Bina zemin, giriş ve üst olarak üçe ayrılmıştır."
+  },
+  {"baslik":"Ali Paşa Hamamı",
+   "tarih":"1572",
+   "aciklama":"Osmanlı hamam mimarisinin güzel bir örneğidir.",
+   "resim":"https://github.com/ufukgulec/MP/blob/master/images/alipasahamami.jpg?raw=true",
+   "paragraf":"Aynı isimle Ali Paşa Camisi de hemen yanındadır. 1572 tarihli hamam kesme taş kullanılarak inşa edilmiş. Osmanlı hamam mimarisinin güzel bir örneğidir. Kadın ve erkek bölümü ayrı olup, birbirine bitişiktir. İki bölüm arasındaki tek fark erkek bölümünün sıcaklık kısmı haç planlıdır ve göbek taşının üzeri kubbe ile örtülmüştür."
   },
   {"baslik":"Horoztepe",
    "tarih":"M.Ö. 3000",
